@@ -1,4 +1,4 @@
-### cd /home/edouard
+### `cd /home/edouard`
 <!--<div align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /></div>-->  
 
 - 🔭 I’m currently working on building a data-informed culture within the [UNHCR - United Nations High Commissioner for Refugees](http://www.unhcr.org)
@@ -8,7 +8,7 @@
 <br/>  
 
 
-## My Skill Set  
+## `cat` 
 <table><tr><td valign="top" width="33%">
 
 
@@ -42,7 +42,7 @@
 <br/>  
 
 
-## Connect with me  
+## `ping`  
 <div align="center">
 <a href="https://github.com/edouard-Legoupil" target="_blank"> <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /> </a>   <a href="https://twitter.com/edouard_lgp" target="blank"><img src="https://img.shields.io/twitter/follow/edouard_lgp?logo=twitter&style=for-the-badge" alt="edouard_lgp" /></a>  <a href="https://linkedin.com/in/edouardlegoupil" target="_blank"> <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /> </a>
 </div>  
@@ -51,7 +51,7 @@
 <br/>  
 
 
-## Github Stats  
+## `df`  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edouard-legoupil&show_icons=true&locale=en" alt="edouard-legoupil" /></p>
 
