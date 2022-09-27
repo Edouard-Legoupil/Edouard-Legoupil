@@ -2,7 +2,7 @@
 <!--<div align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /></div>-->  
 
 - 🔭 I’m currently working on building a data-informed culture within the [UNHCR - United Nations High Commissioner for Refugees](http://www.unhcr.org)
-- 🌱 I’m constantly learning new R pacckages
+- 🌱 I’m constantly learning new R packages
 - 👯 I’m looking to collaborate on the creation of an ecosystem of R packages for humanitarian data analysis - unhcRverse - from Survey to Registration - from field assessment to big data - fom Focus Group discussions to Social Media... 
 - ⚡ Fun fact: I am slightly color-blind
 <br/>  
