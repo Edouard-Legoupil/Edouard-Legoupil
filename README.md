@@ -1,10 +1,8 @@
 ### `cd /home/edouard`
 <!--<div align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /></div>-->  
 
-- 🔭 I’m currently working on building a data-informed culture within the [UNHCR - United Nations High Commissioner for Refugees](http://www.unhcr.org)
-- 🌱 I’m constantly learning and I contribut to new R packagesin relation with my work
-- 👯 I’m looking to collaborate on the creation of an ecosystem of R packages for humanitarian data analysis - unhcRverse - from Survey to Registration - from field assessment to big data - fom Focus Group discussions to Social Media... 
-- ⚡ Fun fact: I am slightly color-blind - deuteranomaly!
+- 🔭 building a data-informed culture within the [UNHCR - United Nations High Commissioner for Refugees](http://www.unhcr.org)
+- 👯  looking to collaborate on the creation of an ecosystem of R packages for humanitarian data analysis 
 <br/>  
 
 
@@ -14,35 +12,54 @@ A good part of my contribution here are around <a href="https://www.r-project.or
 
 Below is a list of project I am contributing on you may be intrested to look at:
 
-<table><tr>
- <td valign="top" width="33%">
-### Data Exploration  
-  * [Data Litercacy and Data Story Telling](https://edouard-legoupil.github.io/unhcrdatapackage/) 
-  * [Registration Database Analysis](https://github.com/Edouard-Legoupil/proGres-analysis)
-  * [Parsing UNHCR internal Data Repository](https://edouard-legoupil.github.io/riddle/)
-  * [Activity Response Monitoring Data Quality Check](https://edouard-legoupil.github.io/ActivtityInfoQuality/)
-  
-</td>
-<td valign="top" width="33%">
-### Data Community Dev
-  * [Building an app universe for UNHCR](https://unhcrverse.github.io/unhcrverse/index.html)
-  * [Tutorial for R in Humanitarian Context](https://humanitarian-user-group.github.io/)
-  * [ShinyApp framework for rapid dashbaord creation](https://edouard-legoupil.github.io/graveler/)
+<table><tr><td valign="top" width="33%">
 
-</td>
- <td valign="top" width="33%">
-### Composite Indicator
+
+### Data Exploration   
+
+  * [Data Litercacy and Data Story Telling](https://edouard-legoupil.github.io/unhcrdatapackage/)
+    
+  * [Registration Database Analysis](https://github.com/Edouard-Legoupil/proGres-analysis)
+  * 
+  * [Parsing UNHCR internal Data Repository](https://edouard-legoupil.github.io/riddle/)
+  * 
+  * [Activity Response Monitoring Data Quality Check](https://edouard-legoupil.github.io/ActivtityInfoQuality/)
+  * 
+</td> <td valign="top" width="33%">
+
+
+### Survey Management  
+
+  * [Household Survey Data Crunching](https://edouard-legoupil.github.io/kobocruncher/) 
+ 
+  * [Survey Data Collection Quality Monitoring](https://edouard-legoupil.github.io/HighFrequencyChecks/docs/)
+    
+  * [Questionnaire encoding review for XlsForm](https://unhcr-americas.github.io/XlsFormUtil)
+    
+  * [Integrated Survey Design](https://unhcr-americas.github.io/surveyDesigner/)
+    
+ 
+</td><td valign="top" width="33%">
+
+
+### Composite Indicator  
+
   * [Admin 2 Severity Index Creation](https://unhcr-guatemala.github.io/A2SIT/)
+    
   * [Household Vulnerability Scoring](https://unhcr-americas.github.io/VulnerabilityScoreCalibration/)
   
+</td><td valign="top" width="33%">
+
+### Data Community Dev  
+
+  * [Building an app universe for UNHCR](https://unhcrverse.github.io/unhcrverse/index.html)
+    
+  * [Tutorial for R in Humanitarian Context](https://humanitarian-user-group.github.io/)
+    
+  * [ShinyApp framework for rapid dashbaord creation](https://edouard-legoupil.github.io/graveler/)  
+
 </td>
-<td valign="top" width="33%">
-### Survey  
-  * [Household Survey Data Crunching](https://edouard-legoupil.github.io/kobocruncher/)
-  * [Survey Data Collection Quality Monitoring](https://edouard-legoupil.github.io/HighFrequencyChecks/docs/)
-  * [Questionnaire encoding review for XlsForm](https://unhcr-americas.github.io/XlsFormUtil)
-  * [Integrated Survey Design](https://unhcr-americas.github.io/surveyDesigner/)  
-</td>
+
 </tr></table>  
 
 
