@@ -12,7 +12,7 @@ A good part of my contribution here are around <a href="https://www.r-project.or
 
 Below is a list of project I am contributing on you may be intrested to look at:
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="25%">
 
 
 ### Data Exploration   
@@ -20,8 +20,9 @@ Below is a list of project I am contributing on you may be intrested to look at:
   * [Data Litercacy and Data Story Telling](https://edouard-legoupil.github.io/unhcrdatapackage/)      
   * [Registration Database Analysis](https://github.com/Edouard-Legoupil/proGres-analysis)   
   * [Parsing UNHCR internal Data Repository](https://edouard-legoupil.github.io/riddle/)  
-  * [Activity Response Monitoring Data Quality Check](https://edouard-legoupil.github.io/ActivtityInfoQuality/)  
-</td> <td valign="top" width="33%">
+  * [Activity Response Monitoring Data Quality Check](https://edouard-legoupil.github.io/ActivtityInfoQuality/)
+
+</td> <td valign="top" width="25%">
 
 
 ### Survey Management  
@@ -31,7 +32,7 @@ Below is a list of project I am contributing on you may be intrested to look at:
   * [Questionnaire encoding review for XlsForm](https://unhcr-americas.github.io/XlsFormUtil)       
   * [Integrated Survey Design](https://unhcr-americas.github.io/surveyDesigner/)    
  
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 ### Composite Indicator  
@@ -39,7 +40,7 @@ Below is a list of project I am contributing on you may be intrested to look at:
   * [Admin 2 Severity Index Creation](https://unhcr-guatemala.github.io/A2SIT/)     
   * [Household Vulnerability Scoring](https://unhcr-americas.github.io/VulnerabilityScoreCalibration/)
   
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 ### Community Dev  
 
@@ -51,9 +52,18 @@ Below is a list of project I am contributing on you may be intrested to look at:
 
 </tr></table>  
 
-
+⚡ Tech stack 
 
 <table><tr><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a> <a href="https://thinkr-open.github.io/fusen/index.html" target="_blank"><img style="margin: 10px" src="https://thinkr-open.github.io/fusen/reference/figures/logo.png" alt="FUSEN" height="60" /></a> 
+</div>
+
+</td><td valign="top" width="33%">
 
 
 ### Frontend  
@@ -66,18 +76,9 @@ Below is a list of project I am contributing on you may be intrested to look at:
 
 
 
-### Backend  
-<div align="center">  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a> <a href="https://thinkr-open.github.io/fusen/index.html" target="_blank"><img style="margin: 10px" src="https://thinkr-open.github.io/fusen/reference/figures/logo.png" alt="FUSEN" height="60" /></a> 
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
 ### DevOps  
 <div align="center">  
- <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+ <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
 </div>
 
 </td></tr></table>  
