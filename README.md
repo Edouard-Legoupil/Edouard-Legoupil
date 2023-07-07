@@ -8,9 +8,7 @@
 
 ## `cat` 
 
-A good part of my contribution here are around <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a> 
-
-Below is a list of project I am contributing on you may be intrested to look at:
+Below is a list of projects I am contributing on:
 
 <table><tr><td valign="top" width="25%">
 
