@@ -3,7 +3,6 @@
 
 - 👯 striving to build a data-informed culture within the [UNHCR - United Nations High Commissioner for Refugees](http://www.unhcr.org) since 2005
 - 🔭 looking for collaboration on R packages development for humanitarian data to promote [reproducible analysis](https://unhcr-americas.github.io/reproducibility) 
-<br/>  
 
 ## `cat` 
 
