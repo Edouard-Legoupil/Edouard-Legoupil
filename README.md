@@ -14,17 +14,38 @@ A good part of my contribution here are around <a href="https://www.r-project.or
 
 Below is a list of project I am contributing on you may be intrested to look at:
 
+<table><tr>
+ <td valign="top" width="33%">
+### Data Exploration  
   * [Data Litercacy and Data Story Telling](https://edouard-legoupil.github.io/unhcrdatapackage/) 
-  * [ShinyApp framework for rapid dashbaord creation](https://edouard-legoupil.github.io/graveler/)
-  * [Household Survey Data Crunching](https://edouard-legoupil.github.io/kobocruncher/)
-  * [Admin 2 Severity Index Creation](https://unhcr-guatemala.github.io/A2SIT/)
-  * [Household Vulnerability Scoring](https://unhcr-americas.github.io/VulnerabilityScoreCalibration/)
   * [Registration Database Analysis](https://github.com/Edouard-Legoupil/proGres-analysis)
   * [Parsing UNHCR internal Data Repository](https://edouard-legoupil.github.io/riddle/)
-  * [Survey Data Collection Quality Monitoring](https://edouard-legoupil.github.io/HighFrequencyChecks/docs/)
   * [Activity Response Monitoring Data Quality Check](https://edouard-legoupil.github.io/ActivtityInfoQuality/)
-  * [Questionnaire encoding review for XlsForm]()
-  * [Integrated Survey Design](https://unhcr-americas.github.io/surveyDesigner/)
+  
+</td>
+<td valign="top" width="33%">
+### Data Community Dev
+  * [Building an app universe for UNHCR](https://unhcrverse.github.io/unhcrverse/index.html)
+  * [Tutorial for R in Humanitarian Context](https://humanitarian-user-group.github.io/)
+  * [ShinyApp framework for rapid dashbaord creation](https://edouard-legoupil.github.io/graveler/)
+
+</td>
+ <td valign="top" width="33%">
+### Composite Indicator
+  * [Admin 2 Severity Index Creation](https://unhcr-guatemala.github.io/A2SIT/)
+  * [Household Vulnerability Scoring](https://unhcr-americas.github.io/VulnerabilityScoreCalibration/)
+  
+</td>
+<td valign="top" width="33%">
+### Survey  
+  * [Household Survey Data Crunching](https://edouard-legoupil.github.io/kobocruncher/)
+  * [Survey Data Collection Quality Monitoring](https://edouard-legoupil.github.io/HighFrequencyChecks/docs/)
+  * [Questionnaire encoding review for XlsForm](https://unhcr-americas.github.io/XlsFormUtil)
+  * [Integrated Survey Design](https://unhcr-americas.github.io/surveyDesigner/)  
+</td>
+</tr></table>  
+
+
 
 <table><tr><td valign="top" width="33%">
 
@@ -32,7 +53,7 @@ Below is a list of project I am contributing on you may be intrested to look at:
 ### Frontend  
 <div align="center">  
  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a> <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a> <a href="https://d3js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" /></a> <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
+<a href="https://shiny.posit.co/" target="_blank"><img style="margin: 10px" src="https://shiny.posit.co/images/shiny-solo.png" alt="Shiny" height="50" /></a> <a href="https://thinkr-open.github.io/golem/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ThinkR-open/golem/master/inst/rstudio/templates/project/golem.png" alt="Golem" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -41,7 +62,8 @@ Below is a list of project I am contributing on you may be intrested to look at:
 
 ### Backend  
 <div align="center">  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a> 
+ <a href="https://thinkr-open.github.io/fusen/index.html" target="_blank"><img style="margin: 10px" src="https://thinkr-open.github.io/fusen/reference/figures/logo.png" alt="FUSEN" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
@@ -50,7 +72,7 @@ Below is a list of project I am contributing on you may be intrested to look at:
 
 ### DevOps  
 <div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+ <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
 </td></tr></table>  
