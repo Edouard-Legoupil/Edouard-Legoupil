@@ -6,7 +6,7 @@
 
 ## `cat` 
 
-Below is a list of projects I am contributing on:
+Below is a list of projects I am currently contributing on:
 
 <table><tr><td valign="top" width="25%">
 
