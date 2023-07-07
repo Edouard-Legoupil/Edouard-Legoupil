@@ -14,17 +14,17 @@ A good part of my contribution here are around <a href="https://www.r-project.or
 
 Below is a list of project I am contributing on you may be intrested to look at:
 
-  * Data Litercacy and Data Story Telling
-  * ShinyApp framework for rapid dashbaord creation
-  * Household Survey Data Crunching
-  * Admin 2 Severity Index Creation
-  * Household Vulnerability Scoring
-  * Registration Database Analysis
-  * Parsing UNHCR internal Data Repository
-  * Survey Data Collection Quality Monitoring:
-  * Activity Response Monitoring Data Quality Check:
-  * Questionnaire encoding review for XlsForm
-  * Integrated Survey Design
+  * [Data Litercacy and Data Story Telling](https://edouard-legoupil.github.io/unhcrdatapackage/) 
+  * [ShinyApp framework for rapid dashbaord creation](https://edouard-legoupil.github.io/graveler/)
+  * [Household Survey Data Crunching](https://edouard-legoupil.github.io/kobocruncher/)
+  * [Admin 2 Severity Index Creation](https://unhcr-guatemala.github.io/A2SIT/)
+  * [Household Vulnerability Scoring](https://unhcr-americas.github.io/VulnerabilityScoreCalibration/)
+  * [Registration Database Analysis](https://github.com/Edouard-Legoupil/proGres-analysis)
+  * [Parsing UNHCR internal Data Repository](https://edouard-legoupil.github.io/riddle/)
+  * [Survey Data Collection Quality Monitoring](https://edouard-legoupil.github.io/HighFrequencyChecks/docs/)
+  * [Activity Response Monitoring Data Quality Check](https://edouard-legoupil.github.io/ActivtityInfoQuality/)
+  * [Questionnaire encoding review for XlsForm]()
+  * [Integrated Survey Design](https://unhcr-americas.github.io/surveyDesigner/)
 
 <table><tr><td valign="top" width="33%">
 
