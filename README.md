@@ -1,10 +1,9 @@
 ### `cd /home/edouard`
 <!--<div align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /></div>-->  
 
-- 🔭 building a data-informed culture within the [UNHCR - United Nations High Commissioner for Refugees](http://www.unhcr.org)
-- 👯  looking to collaborate on the creation of an ecosystem of R packages for humanitarian data analysis 
+- 👯 striving to build a data-informed culture within the [UNHCR - United Nations High Commissioner for Refugees](http://www.unhcr.org) since 2005
+- 🔭 looking for collaboration on R packages development for humanitarian data to promote [reproducible analysis](https://unhcr-americas.github.io/reproducibility) 
 <br/>  
-
 
 ## `cat` 
 
