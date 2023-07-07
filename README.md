@@ -17,45 +17,34 @@ Below is a list of project I am contributing on you may be intrested to look at:
 
 ### Data Exploration   
 
-  * [Data Litercacy and Data Story Telling](https://edouard-legoupil.github.io/unhcrdatapackage/)
-    
-  * [Registration Database Analysis](https://github.com/Edouard-Legoupil/proGres-analysis)
-  * 
-  * [Parsing UNHCR internal Data Repository](https://edouard-legoupil.github.io/riddle/)
-  * 
-  * [Activity Response Monitoring Data Quality Check](https://edouard-legoupil.github.io/ActivtityInfoQuality/)
-  * 
+  * [Data Litercacy and Data Story Telling](https://edouard-legoupil.github.io/unhcrdatapackage/)      
+  * [Registration Database Analysis](https://github.com/Edouard-Legoupil/proGres-analysis)   
+  * [Parsing UNHCR internal Data Repository](https://edouard-legoupil.github.io/riddle/)  
+  * [Activity Response Monitoring Data Quality Check](https://edouard-legoupil.github.io/ActivtityInfoQuality/)  
 </td> <td valign="top" width="33%">
 
 
 ### Survey Management  
 
-  * [Household Survey Data Crunching](https://edouard-legoupil.github.io/kobocruncher/) 
- 
-  * [Survey Data Collection Quality Monitoring](https://edouard-legoupil.github.io/HighFrequencyChecks/docs/)
-    
-  * [Questionnaire encoding review for XlsForm](https://unhcr-americas.github.io/XlsFormUtil)
-    
-  * [Integrated Survey Design](https://unhcr-americas.github.io/surveyDesigner/)
-    
+  * [Household Survey Data Crunching](https://edouard-legoupil.github.io/kobocruncher/)  
+  * [Survey Data Collection Quality Monitoring](https://edouard-legoupil.github.io/HighFrequencyChecks/docs/)      
+  * [Questionnaire encoding review for XlsForm](https://unhcr-americas.github.io/XlsFormUtil)       
+  * [Integrated Survey Design](https://unhcr-americas.github.io/surveyDesigner/)    
  
 </td><td valign="top" width="33%">
 
 
 ### Composite Indicator  
 
-  * [Admin 2 Severity Index Creation](https://unhcr-guatemala.github.io/A2SIT/)
-    
+  * [Admin 2 Severity Index Creation](https://unhcr-guatemala.github.io/A2SIT/)     
   * [Household Vulnerability Scoring](https://unhcr-americas.github.io/VulnerabilityScoreCalibration/)
   
 </td><td valign="top" width="33%">
 
-### Data Community Dev  
+### Community Dev  
 
-  * [Building an app universe for UNHCR](https://unhcrverse.github.io/unhcrverse/index.html)
-    
-  * [Tutorial for R in Humanitarian Context](https://humanitarian-user-group.github.io/)
-    
+  * [Building an app universe for UNHCR](https://unhcrverse.github.io/unhcrverse/index.html)      
+  * [Tutorial for R in Humanitarian Context](https://humanitarian-user-group.github.io/)      
   * [ShinyApp framework for rapid dashbaord creation](https://edouard-legoupil.github.io/graveler/)  
 
 </td>
@@ -70,7 +59,7 @@ Below is a list of project I am contributing on you may be intrested to look at:
 ### Frontend  
 <div align="center">  
  
-<a href="https://shiny.posit.co/" target="_blank"><img style="margin: 10px" src="https://shiny.posit.co/images/shiny-solo.png" alt="Shiny" height="50" /></a> <a href="https://thinkr-open.github.io/golem/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ThinkR-open/golem/master/inst/rstudio/templates/project/golem.png" alt="Golem" height="50" /></a>  
+<a href="https://shiny.posit.co/" target="_blank"><img style="margin: 10px" src="https://shiny.posit.co/images/shiny-solo.png" alt="Shiny" height="40" /></a> <a href="https://thinkr-open.github.io/golem/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ThinkR-open/golem/master/inst/rstudio/templates/project/golem.png" alt="Golem" height="60" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -79,8 +68,7 @@ Below is a list of project I am contributing on you may be intrested to look at:
 
 ### Backend  
 <div align="center">  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a> 
- <a href="https://thinkr-open.github.io/fusen/index.html" target="_blank"><img style="margin: 10px" src="https://thinkr-open.github.io/fusen/reference/figures/logo.png" alt="FUSEN" height="50" /></a> 
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a> <a href="https://thinkr-open.github.io/fusen/index.html" target="_blank"><img style="margin: 10px" src="https://thinkr-open.github.io/fusen/reference/figures/logo.png" alt="FUSEN" height="60" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
