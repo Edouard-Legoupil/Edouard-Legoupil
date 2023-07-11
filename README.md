@@ -13,7 +13,7 @@ Below is a list of projects I am currently contributing on:
 
 ### Data Exploration   
 
-  * [Data Litercacy and Data Story Telling](https://edouard-legoupil.github.io/unhcrdatapackage/)      
+  * [Data Literacy and Data Story Telling](https://edouard-legoupil.github.io/unhcrdatapackage/)      
   * [Registration Database Analysis](https://github.com/Edouard-Legoupil/proGres-analysis)   
   * [Parsing UNHCR internal Data Repository](https://edouard-legoupil.github.io/riddle/)  
   * [Activity Response Monitoring Data Quality Check](https://edouard-legoupil.github.io/ActivtityInfoQuality/)
