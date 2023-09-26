@@ -24,7 +24,7 @@ Below is a list of projects I am currently contributing on:
 ### Survey Management  
 
   * [Household Survey Data Crunching](https://edouard-legoupil.github.io/kobocruncher/)  
-  * [Survey Data Collection Quality Monitoring](https://edouard-legoupil.github.io/HighFrequencyChecks/docs/)      
+  * [Survey Data Collection Quality Monitoring](https://edouard-legoupil.github.io/HighFrequencyChecks/)      
   * [Questionnaire encoding review for XlsForm](https://unhcr-americas.github.io/XlsFormUtil)       
   * [Integrated Survey Design](https://unhcr-americas.github.io/surveyDesigner/)    
  
