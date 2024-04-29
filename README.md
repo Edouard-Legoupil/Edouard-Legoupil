@@ -41,7 +41,7 @@ Below is a list of projects I am currently contributing on:
 ### Community Dev  
 
   * [Building an app universe for UNHCR](https://unhcrverse.github.io/unhcrverse/index.html)      
-  * [Tutorial for R in Humanitarian Context](https://humanitarian-user-group.github.io/)      
+  * [R Tutorials & User Community in Humanitarian Context](https://humanitarian-user-group.github.io/)      
   * [ShinyApp project template for rapid dashboard creation](https://edouard-legoupil.github.io/graveler/)  
 
 </td>
