@@ -6,6 +6,30 @@
 
 ## `cat` 
 
+⚡ Data Science Tech Stack 
+
+<table><tr><td valign="top" width="50%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a> <a href="https://thinkr-open.github.io/fusen/index.html" target="_blank"><img style="margin: 10px" src="https://thinkr-open.github.io/fusen/reference/figures/logo.png" alt="FUSEN" height="60" /></a> 
+</div>
+
+</td><td valign="top" width="50%">
+
+
+### Frontend  
+<div align="center">  
+ 
+<a href="https://shiny.posit.co/" target="_blank"><img style="margin: 10px" src="https://shiny.posit.co/images/shiny-solo.png" alt="Shiny" height="40" /></a> <a href="https://thinkr-open.github.io/golem/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ThinkR-open/golem/master/inst/rstudio/templates/project/golem.png" alt="Golem" height="60" /></a>  
+</div>
+
+</td>
+
+</td></tr></table>  
+
 Below is a list of projects I have contributed to:
 
 <table><tr><td valign="top" width="25%">
@@ -48,36 +72,7 @@ Below is a list of projects I have contributed to:
 
 </tr></table>  
 
-⚡ Data Science Tech Stack 
 
-<table><tr><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a> <a href="https://thinkr-open.github.io/fusen/index.html" target="_blank"><img style="margin: 10px" src="https://thinkr-open.github.io/fusen/reference/figures/logo.png" alt="FUSEN" height="60" /></a> 
-</div>
-
-</td><td valign="top" width="33%">
-
-
-### Frontend  
-<div align="center">  
- 
-<a href="https://shiny.posit.co/" target="_blank"><img style="margin: 10px" src="https://shiny.posit.co/images/shiny-solo.png" alt="Shiny" height="40" /></a> <a href="https://thinkr-open.github.io/golem/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ThinkR-open/golem/master/inst/rstudio/templates/project/golem.png" alt="Golem" height="60" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
- <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-</div>
-
-</td></tr></table>  
 
 <br/>  
 
@@ -86,10 +81,9 @@ Below is a list of projects I have contributed to:
 <table><tr><td valign="top" width="50%">
 
 
-
 ### Backend  
 <div align="center">  
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="50" /></a> <a href="https://www.crewai.com/" target="_blank"><img style="margin: 10px" src="https://cdn.prod.website-files.com/68de1ee6d7c127849807d7a6/68de1ee6d7c127849807d7ef_Logo.svg" alt="Crewai" height="60" /></a> 
+<a href="https://python.org/" target="_blank"><img style="margin: 10px" src="https://www.python.org/static/img/python-logo.png" alt="Python" height="50" /></a> <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="50" /></a> <a href="https://www.crewai.com/" target="_blank"><img style="margin: 10px" src="https://cdn.prod.website-files.com/68de1ee6d7c127849807d7a6/68de1ee6d7c127849807d7ef_Logo.svg" alt="Crewai" height="60" /></a> 
 </div>
 
 </td><td valign="top" width="50%">
@@ -102,6 +96,31 @@ Below is a list of projects I have contributed to:
 </div>
 
 </td></tr></table>  
+
+<table><tr><td valign="top" width="50%">
+
+
+### Agentic AI
+
+  * [Project Proposal Drafting](https://github.com/Edouard-Legoupil/proposal_drafter)      
+  * [Causal Layer Analysis](https://github.com/Edouard-Legoupil/CausalLayerAnalysis)   
+  * [Meeting Summarisation](https://github.com/Edouard-Legoupil/excom76)  
+  * [A tentative Boilerplate repository to build AI applications](https://github.com/Edouard-Legoupil/ai_app_template)
+
+</td> <td valign="top" width="50%">
+
+
+### Data Interpretation with LLM  
+
+  * [Analysis of Forced Displacement Statistics](https://matheus-hardt.github.io/unhcrreports)  
+  * [Analysis of Donors](https://edouard-legoupil.github.io/iati/)      
+  * [Analysis of OCHA Finantial Tracking Service](https://edouard-legoupil.github.io/ftsAnalysis/)   
+ 
+</td>
+
+</tr></table>  
+
+
 
 <br/>  
 
