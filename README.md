@@ -13,7 +13,7 @@ Below is a list of projects I have contributed to:
 
 ### Data Exploration   
 
-  * [Data Literacy and Data Story Telling](https://edouard-legoupil.github.io/unhcrdatapackage/)      
+  * [Data Literacy and Data Story Telling](https://edouard-legoupil.github.io/unhcrviz/)      
   * [Registration Database Analysis](https://github.com/Edouard-Legoupil/proGres-analysis)   
   * [Parsing UNHCR internal Data Repository](https://edouard-legoupil.github.io/riddle/)  
   * [Activity Response Monitoring Data Quality Check](https://edouard-legoupil.github.io/ActivtityInfoQuality/)
@@ -48,7 +48,7 @@ Below is a list of projects I have contributed to:
 
 </tr></table>  
 
-⚡ Tech stack 
+⚡ Data Science Tech Stack 
 
 <table><tr><td valign="top" width="33%">
 
@@ -75,6 +75,30 @@ Below is a list of projects I have contributed to:
 ### DevOps  
 <div align="center">  
  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+⚡ AI Tech Stack 
+
+<table><tr><td valign="top" width="50%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="50" /></a> <a href="https://www.crewai.com/" target="_blank"><img style="margin: 10px" src="https://cdn.prod.website-files.com/68de1ee6d7c127849807d7a6/68de1ee6d7c127849807d7ef_Logo.svg" alt="Crewai" height="60" /></a> 
+</div>
+
+</td><td valign="top" width="50%">
+
+
+### Frontend  
+<div align="center">  
+ 
+<a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/3840px-React-icon.svg.png" alt="REACT" height="40" /></a>  
 </div>
 
 </td></tr></table>  
